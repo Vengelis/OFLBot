@@ -16,6 +16,7 @@ public class OFLBot {
         ConsoleLogger.printLine(Level.INFO, "|                                                                                    |");
         ConsoleLogger.printLine(Level.INFO, "|                                                         By Vengelis_               |");
         ConsoleLogger.printLine(Level.INFO, "#------------------------------------------------------------------------------------#");
+        OFLBotApp app = new OFLBotApp();
     }
 
 }
